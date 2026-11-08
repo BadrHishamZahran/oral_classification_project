@@ -30,7 +30,7 @@ cd backend
 py -m venv .venv
 
 # Activate virtual environment
-.\.venv\Scripts\Activate.ps1
+.\.venv\Scripts\activate
 
 # Upgrade pip
 python -m pip install --upgrade pip
